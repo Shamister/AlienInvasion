@@ -1,8 +1,8 @@
 README.txt
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
 
-This is just a simple airship shooting game I developed in Java
-I used JMonkey and Launch4J as the development tools.
+This is just a simple space shooting game using Java.
+The program is developed with JMonkey and Launch4J as the development tools.
 
 It seems like space invaders at a glance.
 
@@ -10,7 +10,7 @@ LICENSE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Alien Invasion
-Airship Shooting Game
+Space Shooting Game
 Copyright (C) 2013  Wendell
 
 This program is free software: you can redistribute it and/or modify
